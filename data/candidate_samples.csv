@@ -1,0 +1,5 @@
+Applicant ID,School Name,GPA,Degree,Location,Gender,Veteran status,Work authorization,Disability,Ethnicity,Role 1,Start 1,End 1,Role 2,Start 2,End 2,Role 3,Start 3,End 3
+1,Brown University,3.0,Phd,New York City,F,1,0,1,1,ML Engineer,4/17,11/21,Chef,5/13,3/14,Junior SWE,12/11,9/13
+2,Columbia University,4.0,Bachelors,Los Angeles,N/A,N/A,1,0,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3,Brown University,2.7,Phd,Washington D.C.,N/A,0,0,N/A,2,Data scientist,6/10,5/20,Lawyer,5/11,9/22,Bus Driver,1/21,11/22
+4,Columbia University,3.8,Bachelors,Detroit,F,1,0,1,4,Lawyer,4/11,3/19,Data scientist,6/19,10/23,N/A,N/A,N/A
