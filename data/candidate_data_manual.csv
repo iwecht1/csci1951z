@@ -1,0 +1,53 @@
+Applicant ID,School Name,GPA,Degree,Location,Gender,Veteran status,Work authorization,Disability,Ethnicity,Role 1,Start 1,End 1,Role 2,Start 2,End 2,Role 3,Start 3,End 3
+1,Providence University,3.81,Bachelors,Providence,M,1,1,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2,Providence University,3.81,Bachelors,Providence,F,1,1,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3,Providence University,1.23,Bachelors,Providence,M,1,1,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4,Providence University,1.23,Bachelors,Providence,F,1,1,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5,Providence University,3.81,Bachelors,Providence,M,1,1,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6,Providence University,3.81,Bachelors,Providence,M,0,1,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7,Providence University,1.23,Bachelors,Providence,M,1,1,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8,Providence University,1.23,Bachelors,Providence,M,0,1,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9,Providence University,3.81,Bachelors,Providence,M,1,1,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10,Providence University,3.81,Bachelors,Providence,M,1,0,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11,Providence University,1.23,Bachelors,Providence,M,1,1,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12,Providence University,1.23,Bachelors,Providence,M,1,0,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+13,Providence University,3.81,Bachelors,Providence,M,1,1,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+14,Providence University,3.81,Bachelors,Providence,M,1,1,1,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+15,Providence University,1.23,Bachelors,Providence,M,1,1,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+16,Providence University,1.23,Bachelors,Providence,M,1,1,1,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+17,Providence University,3.81,Bachelors,Providence,M,1,1,0,0,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+18,Providence University,3.81,Bachelors,Providence,M,1,1,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+19,Providence University,3.81,Bachelors,Providence,M,1,1,0,2,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+20,Providence University,3.81,Bachelors,Providence,M,1,1,0,3,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+21,Providence University,3.81,Bachelors,Providence,M,1,1,0,4,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+22,Providence University,1.23,Bachelors,Providence,M,1,1,0,0,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+23,Providence University,1.23,Bachelors,Providence,M,1,1,0,1,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+24,Providence University,1.23,Bachelors,Providence,M,1,1,0,2,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+25,Providence University,1.23,Bachelors,Providence,M,1,1,0,3,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+26,Providence University,1.23,Bachelors,Providence,M,1,1,0,4,Junior SWE,20-May,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+27,State Providence College,3.03,Bachelors,Chicago,F,1,1,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+28,State Providence College,3.03,Bachelors,Chicago,M,1,1,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+29,State Providence College,2.11,Bachelors,Chicago,F,1,1,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+30,State Providence College,2.11,Bachelors,Chicago,M,1,1,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+31,State Providence College,3.03,Bachelors,Chicago,F,1,1,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+32,State Providence College,3.03,Bachelors,Chicago,F,0,1,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+33,State Providence College,2.11,Bachelors,Chicago,F,1,1,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+34,State Providence College,2.11,Bachelors,Chicago,F,0,1,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+35,State Providence College,3.03,Bachelors,Chicago,F,1,0,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+36,State Providence College,3.03,Bachelors,Chicago,F,1,1,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+37,State Providence College,2.11,Bachelors,Chicago,F,1,0,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+38,State Providence College,2.11,Bachelors,Chicago,F,1,1,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+39,State Providence College,3.03,Bachelors,Chicago,F,1,1,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+40,State Providence College,3.03,Bachelors,Chicago,F,1,1,1,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+41,State Providence College,2.11,Bachelors,Chicago,F,1,1,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+42,State Providence College,2.11,Bachelors,Chicago,F,1,1,1,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+43,State Providence College,3.03,Bachelors,Chicago,F,1,1,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+44,State Providence College,3.03,Bachelors,Chicago,F,1,1,0,0,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+45,State Providence College,3.03,Bachelors,Chicago,F,1,1,0,2,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+46,State Providence College,3.03,Bachelors,Chicago,F,1,1,0,3,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+47,State Providence College,3.03,Bachelors,Chicago,F,1,1,0,4,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+48,State Providence College,2.11,Bachelors,Chicago,F,1,1,0,1,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+49,State Providence College,2.11,Bachelors,Chicago,F,1,1,0,0,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+50,State Providence College,2.11,Bachelors,Chicago,F,1,1,0,2,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+51,State Providence College,2.11,Bachelors,Chicago,F,1,1,0,3,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
+52,State Providence College,2.11,Bachelors,Chicago,F,1,1,0,4,ML Engineer,21-May,23-Jun,N/A,N/A,N/A,N/A,N/A,N/A
